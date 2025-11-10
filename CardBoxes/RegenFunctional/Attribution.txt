@@ -1,0 +1,18 @@
+Regen Functional Commander Deck Box – Enhanced Edition (Remix)
+by Regenshire
+© 2025 – Licensed under Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+This model is a derivative of:
+"Functional Commander Deck Box – Single Sleeved" by RandomMistakes
+Licensed under Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Summary of Modifications to original work:
+- Adjusted overall dimensions for sleeved Commander decks using thicker proxies and double-sleeved cards
+- Added Top Loader Commander display window
+- Integrated Commander tracking dice stand into lid
+- Created separated internal dice tray that sits on sliders
+- Reinforced structure
+
+You may share and remix this model for noncommercial purposes only, provided you attribute both authors 
+and release your derivative under the same CC BY-NC-SA 4.0 license.
